@@ -35038,12 +35038,12 @@ CapsuleCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Radius: 0.18726286
   m_Height: 0.35297817
   m_Direction: 1
-  m_Center: {x: -0.0000019072035, y: 0.17812046, z: 6.6355e-10}
+  m_Center: {x: -0.0000019072035, y: 0.15, z: 6.6355e-10}
 --- !u!114 &1556954863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47130,10 +47130,10 @@ MonoBehaviour:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1313711681}
   - {fileID: 410087041}
   - {fileID: 139200559}
   - {fileID: 2124398260}
-  - {fileID: 1313711681}
   - {fileID: 1862538045}
   - {fileID: 2143048246}
   - {fileID: 905656486}
